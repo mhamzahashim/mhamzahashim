@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=200&section=header&text=Hamza%20Hashim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Growth%20Architect%20%7C%20Founder%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Building+products+that+solve+real+problems;8+years+%7C+250%2B+clients+%7C+50M%2B+visitors+generated;Founder+of+WittyForm+%26+SERP+Navigator" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Building+products+that+matter;8+yrs+%7C+250%2B+clients+%7C+50M%2B+visits;Founder+of+WittyForm+%26+SERP+Nav" alt="Typing SVG" /></a>
 
 <br />
 
@@ -16,153 +16,130 @@
 
 <br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzahashim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=6" width="320" />
+<div align="center">
 
-### About Me
+```
+I build things people use and rank websites people find.
+Currently running two companies, shipping code daily,
+and helping businesses turn search traffic into revenue.
+```
 
-I build things people use and rank websites people find. Currently running two companies, shipping code daily, and helping businesses turn search traffic into revenue.
+</div>
 
-- 🔨 &nbsp;Building **[WittyForm](https://wittyform.com)** — AI form builder with a $49 lifetime deal
-- 🏢 &nbsp;Founded **[SERP Navigator](https://serpnavigator.com)** in 2018 — SEO agency, 100+ clients
-- 🏆 &nbsp;3x award-winning freelancer and agency founder
-- 🌍 &nbsp;Based in Pakistan, clients worldwide
-- ⚡ &nbsp;I believe in paying once and owning forever
+<br />
 
-<br clear="both" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Currently Building
+
+**[WittyForm](https://wittyform.com)** — AI form builder with a $49 lifetime deal that replaces Typeform. 40+ fields, quizzes, CRM, workflows.
+
+**[SERP Navigator](https://serpnavigator.com)** — SEO agency I founded in 2018. 100+ clients, 50M+ visitors generated.
+
+**[Live HTML Editor](https://livehtmleditor.lovable.app/)** — Real-time HTML playground for prototyping.
+
+**[Bulk BG Remover](https://github.com/mhamzahashim/bulk-bg-remover)** — Free bulk image background removal in Python.
+
+</td>
+<td width="50%" valign="top">
+
+### Quick Facts
+
+| | |
+|---|---|
+| ![pin](https://img.shields.io/badge/📍-Pakistan-blue?style=flat-square&labelColor=blue&color=blue) | Based in Pakistan, clients worldwide |
+| ![work](https://img.shields.io/badge/🏢-2_Companies-6366F1?style=flat-square&labelColor=6366F1&color=6366F1) | WittyForm + SERP Navigator |
+| ![award](https://img.shields.io/badge/🏆-3x_Award_Winner-A855F7?style=flat-square&labelColor=A855F7&color=A855F7) | Freelancer and agency awards |
+| ![exp](https://img.shields.io/badge/⚡-8_Years-10B981?style=flat-square&labelColor=10B981&color=10B981) | In SEO, dev, and marketing |
+| ![belief](https://img.shields.io/badge/💡-Lifetime_Deals-F59E0B?style=flat-square&labelColor=F59E0B&color=F59E0B) | Pay once, own forever |
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 🏆 &nbsp;Track Record
+### Track Record
 
 <br />
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img width="60" src="https://img.icons8.com/fluency/96/globe.png" alt="visitors" /><br />
-<strong>50M+</strong><br />
-<sub>Visitors Generated</sub>
-</td>
-<td align="center" width="20%">
-<img width="60" src="https://img.icons8.com/fluency/96/handshake.png" alt="clients" /><br />
-<strong>250+</strong><br />
-<sub>Clients Served</sub>
-</td>
-<td align="center" width="20%">
-<img width="60" src="https://img.icons8.com/fluency/96/keyword.png" alt="keywords" /><br />
-<strong>23K+</strong><br />
-<sub>Keywords Ranked</sub>
-</td>
-<td align="center" width="20%">
-<img width="60" src="https://img.icons8.com/fluency/96/increase.png" alt="roi" /><br />
-<strong>340%</strong><br />
-<sub>Average ROI</sub>
-</td>
-<td align="center" width="20%">
-<img width="60" src="https://img.icons8.com/fluency/96/loyalty-card.png" alt="retention" /><br />
-<strong>98%</strong><br />
-<sub>Client Retention</sub>
-</td>
-</tr>
-</table>
+![Visitors](https://img.shields.io/badge/50M+-Visitors_Generated-6366F1?style=for-the-badge&labelColor=0D1117)
+![Clients](https://img.shields.io/badge/250+-Clients_Served-A855F7?style=for-the-badge&labelColor=0D1117)
+![Keywords](https://img.shields.io/badge/23K+-Keywords_Ranked-8B5CF6?style=for-the-badge&labelColor=0D1117)
+![ROI](https://img.shields.io/badge/340%25-Average_ROI-10B981?style=for-the-badge&labelColor=0D1117)
+![Retention](https://img.shields.io/badge/98%25-Client_Retention-F59E0B?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
 ---
 
-### 🚀 &nbsp;What I Have Built
-
-<br />
-
-<a href="https://wittyform.com">
-<img align="left" width="88" src="https://img.icons8.com/fluency/96/form.png" alt="WittyForm" />
-</a>
-
-**[WittyForm](https://wittyform.com)** &nbsp;`Next.js 15` `TypeScript` `Supabase` `OpenAI` `Pinecone`
-
-AI-powered form builder with 40+ field types, 5 quiz modes, built-in CRM, workflow automation, Google Sheets and Slack integrations. A $49 one-time payment replaces Typeform's $25/month forever. Used by freelancers, educators, agencies, and ecommerce businesses worldwide.
-
-<br clear="left" />
-<br />
-
-<a href="https://serpnavigator.com">
-<img align="left" width="88" src="https://img.icons8.com/fluency/96/google-logo.png" alt="SERP Navigator" />
-</a>
-
-**[SERP Navigator](https://serpnavigator.com)** &nbsp;`SEO` `Content Strategy` `Link Building` `Technical SEO`
-
-Full-service SEO and digital marketing agency. 100+ businesses served since 2018. Specializing in organic traffic growth, conversion optimization, and content strategy for SaaS, ecommerce, healthcare, and professional services.
-
-<br clear="left" />
-<br />
-
-<a href="https://livehtmleditor.lovable.app/">
-<img align="left" width="88" src="https://img.icons8.com/fluency/96/source-code.png" alt="Live HTML Editor" />
-</a>
-
-**[Live HTML Editor](https://livehtmleditor.lovable.app/)** &nbsp;`TypeScript` `React`
-
-Real-time HTML/CSS/JS playground. Write on the left, preview on the right. Built for rapid prototyping and learning.
-
-<br clear="left" />
-<br />
-
-<a href="https://github.com/mhamzahashim/bulk-bg-remover">
-<img align="left" width="88" src="https://img.icons8.com/fluency/96/remove-image.png" alt="Bulk BG Remover" />
-</a>
-
-**[Bulk BG Remover](https://github.com/mhamzahashim/bulk-bg-remover)** &nbsp;`Python` `Google Colab`
-
-Remove image backgrounds in bulk for free. No API keys, no limits. Open source.
-
-<br clear="left" />
-
----
-
-### 📈 &nbsp;Proven Results
+### Case Studies
 
 <br />
 
 <table>
 <tr>
-<td width="33%">
-<h4 align="center">FreshRN</h4>
-<p align="center"><sub>Nursing Education Platform</sub></p>
-<p align="center">
-<img src="https://img.shields.io/badge/+850%25-Organic_Traffic-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/+420%25-Keyword_Rankings-A855F7?style=flat-square" />
-<img src="https://img.shields.io/badge/+290%25-Revenue-10B981?style=flat-square" />
-</p>
-<blockquote>"Hamza transformed our content strategy. We went from zero to 50,000 monthly visitors."<br /><sub>— Sarah Mitchell, Marketing Director</sub></blockquote>
+<td width="33%" valign="top">
+
+<div align="center">
+
+![FreshRN](https://img.shields.io/badge/FreshRN-Nursing_Education-6366F1?style=for-the-badge&labelColor=0D1117)
+
+![Traffic](https://img.shields.io/badge/▲_850%25-Organic_Traffic-6366F1?style=flat-square)
+![Keywords](https://img.shields.io/badge/▲_420%25-Keyword_Rankings-A855F7?style=flat-square)
+![Revenue](https://img.shields.io/badge/▲_290%25-Revenue-10B981?style=flat-square)
+
+</div>
+
+> *"Hamza transformed our content strategy. We went from zero to 50,000 monthly visitors."*
+>
+> — **Sarah Mitchell**, Marketing Director
+
 </td>
-<td width="33%">
-<h4 align="center">Noori Apparel</h4>
-<p align="center"><sub>Fashion eCommerce</sub></p>
-<p align="center">
-<img src="https://img.shields.io/badge/+320%25-Conversion_Rate-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/1.2%25→3.8%25-CVR_Lift-A855F7?style=flat-square" />
-<img src="https://img.shields.io/badge/+245%25-Revenue_Growth-10B981?style=flat-square" />
-</p>
-<blockquote>"Our conversion rate jumped from 1.2% to 3.8%. Hamza turned our store into a revenue machine."<br /><sub>— Amina Khan, Owner</sub></blockquote>
+<td width="33%" valign="top">
+
+<div align="center">
+
+![Noori](https://img.shields.io/badge/Noori_Apparel-Fashion_eCommerce-A855F7?style=for-the-badge&labelColor=0D1117)
+
+![CVR](https://img.shields.io/badge/▲_320%25-Conversion_Rate-6366F1?style=flat-square)
+![Lift](https://img.shields.io/badge/1.2%25_→_3.8%25-CVR_Lift-A855F7?style=flat-square)
+![Revenue](https://img.shields.io/badge/▲_245%25-Revenue_Growth-10B981?style=flat-square)
+
+</div>
+
+> *"Our conversion rate jumped from 1.2% to 3.8%. Hamza turned our store into a revenue machine."*
+>
+> — **Amina Khan**, Owner
+
 </td>
-<td width="33%">
-<h4 align="center">SocialSellinator</h4>
-<p align="center"><sub>Marketing SaaS</sub></p>
-<p align="center">
-<img src="https://img.shields.io/badge/+670%25-Organic_Leads-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/+450%25-Demo_Requests-A855F7?style=flat-square" />
-<img src="https://img.shields.io/badge/0→35K-Monthly_Visitors-10B981?style=flat-square" />
-</p>
-<blockquote>"Hamza's content strategy brought us from zero to 35K monthly visitors."<br /><sub>— Mike Torres, CEO</sub></blockquote>
+<td width="33%" valign="top">
+
+<div align="center">
+
+![Social](https://img.shields.io/badge/SocialSellinator-Marketing_SaaS-8B5CF6?style=for-the-badge&labelColor=0D1117)
+
+![Leads](https://img.shields.io/badge/▲_670%25-Organic_Leads-6366F1?style=flat-square)
+![Demos](https://img.shields.io/badge/▲_450%25-Demo_Requests-A855F7?style=flat-square)
+![Visitors](https://img.shields.io/badge/0_→_35K-Monthly_Visitors-10B981?style=flat-square)
+
+</div>
+
+> *"Hamza's content strategy brought us from zero to 35K monthly visitors."*
+>
+> — **Mike Torres**, CEO
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 <br />
 
@@ -170,8 +147,11 @@ Remove image backgrounds in bulk for free. No API keys, no limits. Open source.
 <tr>
 <td valign="top" width="33%">
 
-<h4 align="center">Development</h4>
 <div align="center">
+
+![Dev](https://img.shields.io/badge/Development-6366F1?style=for-the-badge&labelColor=0D1117)
+
+<br />
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -186,8 +166,11 @@ Remove image backgrounds in bulk for free. No API keys, no limits. Open source.
 </td>
 <td valign="top" width="33%">
 
-<h4 align="center">Infrastructure & AI</h4>
 <div align="center">
+
+![Infra](https://img.shields.io/badge/Infrastructure_&_AI-A855F7?style=for-the-badge&labelColor=0D1117)
+
+<br />
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -202,11 +185,14 @@ Remove image backgrounds in bulk for free. No API keys, no limits. Open source.
 </td>
 <td valign="top" width="33%">
 
-<h4 align="center">SEO & Marketing</h4>
 <div align="center">
 
+![SEO](https://img.shields.io/badge/SEO_&_Marketing-10B981?style=for-the-badge&labelColor=0D1117)
+
+<br />
+
 ![Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Search Console](https://img.shields.io/badge/GSC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GSC](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF8C00?style=for-the-badge&logoColor=white)
 ![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -219,47 +205,49 @@ Remove image backgrounds in bulk for free. No API keys, no limits. Open source.
 
 ---
 
-### 🏅 &nbsp;Recognition
+<div align="center">
+
+### Recognition
 
 <br />
 
-<div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
-<img width="50" src="https://img.icons8.com/fluency/96/trophy.png" alt="trophy" /><br />
-<strong>Best Freelancer of the Year</strong><br />
-<sub>Connected Pakistan, 2021</sub>
+<br />
+
+![Award](https://img.shields.io/badge/🏆-FFD700?style=for-the-badge&labelColor=FFD700)
+
+**Best Freelancer of the Year**
+
+`Connected Pakistan, 2021`
+
+<br />
 </td>
 <td align="center" width="33%">
-<img width="50" src="https://img.icons8.com/fluency/96/medal2.png" alt="medal" /><br />
-<strong>Elite Freelancer Recognition</strong><br />
-<sub>Tech Nation, 2022</sub>
+<br />
+
+![Award](https://img.shields.io/badge/🥇-C0C0C0?style=for-the-badge&labelColor=C0C0C0)
+
+**Elite Freelancer Recognition**
+
+`Tech Nation, 2022`
+
+<br />
 </td>
 <td align="center" width="33%">
-<img width="50" src="https://img.icons8.com/fluency/96/star.png" alt="star" /><br />
-<strong>Outstanding Agency Leadership</strong><br />
-<sub>Digital Pakistan, 2022</sub>
+<br />
+
+![Award](https://img.shields.io/badge/⭐-6366F1?style=for-the-badge&labelColor=6366F1)
+
+**Outstanding Agency Leadership**
+
+`Digital Pakistan, 2022`
+
+<br />
 </td>
 </tr>
 </table>
-</div>
-
----
-
-### 📊 &nbsp;GitHub Activity
-
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mhamzahashim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzahashim&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" height="180" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamzahashim&bg_color=0D1117&color=6366F1&line=A855F7&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -267,7 +255,24 @@ Remove image backgrounds in bulk for free. No API keys, no limits. Open source.
 
 <div align="center">
 
-### 🤝 &nbsp;Let's Connect
+### GitHub Activity
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzahashim&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mhamzahashim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9&rank_icon=github" alt="Stats" width="49%" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamzahashim&bg_color=0D1117&color=6366F1&line=A855F7&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" width="98%" alt="Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
 
 <br />
 
@@ -275,13 +280,13 @@ Whether you need a product built, a website ranked, or a growth strategy — let
 
 <br />
 
-[![Get Free SEO Audit](https://img.shields.io/badge/🔍_Free_SEO_Audit-6366F1?style=for-the-badge)](https://hamzahashim.com)
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:hello@hamzahashim.com)
-[![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-000000?style=for-the-badge)](https://hamzahashim.com)
+[![Free SEO Audit](https://img.shields.io/badge/Free_SEO_Audit-6366F1?style=for-the-badge&logo=google&logoColor=white)](https://hamzahashim.com)
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@hamzahashim.com)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-000000?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://hamzahashim.com)
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=mhamzahashim&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=mhamzahashim&color=6366F1&style=flat-square&label=Profile+Views)
 
 <br /><br />
 
