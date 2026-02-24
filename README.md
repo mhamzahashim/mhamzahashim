@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=200&section=header&text=Hamza%20Hashim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Growth%20Architect%20%7C%20Founder%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Building+products+that+matter;8+yrs+%7C+250%2B+clients+%7C+50M%2B+visits;Founder+of+WittyForm+%26+SERP+Nav" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1500&color=C4B5FD&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Building+Products+That+Matter;Ranking+Websites+That+Convert;Scaling+Businesses+With+SEO" alt="Typing SVG" /></a>
 
 <br />
 
@@ -34,13 +34,9 @@ and helping businesses turn search traffic into revenue.
 
 ### Currently Building
 
-**[WittyForm](https://wittyform.com)** — AI form builder with a $49 lifetime deal that replaces Typeform. 40+ fields, quizzes, CRM, workflows.
+**[WittyForm](https://wittyform.com)** — AI-powered form builder with 40+ field types, 5 quiz modes, built-in CRM, workflow automation, and Google Sheets + Slack integrations. A $49 one-time payment replaces Typeform's $25/month forever. Used by freelancers, educators, agencies, and ecommerce businesses worldwide.
 
-**[SERP Navigator](https://serpnavigator.com)** — SEO agency I founded in 2018. 100+ clients, 50M+ visitors generated.
-
-**[Live HTML Editor](https://livehtmleditor.lovable.app/)** — Real-time HTML playground for prototyping.
-
-**[Bulk BG Remover](https://github.com/mhamzahashim/bulk-bg-remover)** — Free bulk image background removal in Python.
+`Next.js 15` `TypeScript` `Supabase` `OpenAI` `Pinecone` `Clerk`
 
 </td>
 <td width="50%" valign="top">
@@ -53,7 +49,6 @@ and helping businesses turn search traffic into revenue.
 | ![work](https://img.shields.io/badge/🏢-2_Companies-6366F1?style=flat-square&labelColor=6366F1&color=6366F1) | WittyForm + SERP Navigator |
 | ![award](https://img.shields.io/badge/🏆-3x_Award_Winner-A855F7?style=flat-square&labelColor=A855F7&color=A855F7) | Freelancer and agency awards |
 | ![exp](https://img.shields.io/badge/⚡-8_Years-10B981?style=flat-square&labelColor=10B981&color=10B981) | In SEO, dev, and marketing |
-| ![belief](https://img.shields.io/badge/💡-Lifetime_Deals-F59E0B?style=flat-square&labelColor=F59E0B&color=F59E0B) | Pay once, own forever |
 
 </td>
 </tr>
@@ -77,6 +72,63 @@ and helping businesses turn search traffic into revenue.
 
 ---
 
+### Products
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+[![WittyForm](https://img.shields.io/badge/WittyForm-6366F1?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://wittyform.com)
+
+AI-powered form builder. 40+ fields, quizzes, CRM, workflows. $49 lifetime deal.
+
+`Next.js` `TypeScript` `Supabase` `OpenAI`
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+[![SERP Navigator](https://img.shields.io/badge/SERP_Navigator-10B981?style=for-the-badge&logo=google&logoColor=white)](https://serpnavigator.com)
+
+SEO and digital marketing agency. 100+ clients since 2018.
+
+`SEO` `Content` `Link Building` `Technical SEO`
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+[![Live HTML Editor](https://img.shields.io/badge/Live_HTML_Editor-F59E0B?style=for-the-badge&logo=html5&logoColor=white)](https://livehtmleditor.lovable.app/)
+
+Real-time HTML/CSS/JS playground for rapid prototyping.
+
+`TypeScript` `React`
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+[![Bulk BG Remover](https://img.shields.io/badge/Bulk_BG_Remover-EF4444?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mhamzahashim/bulk-bg-remover)
+
+Remove image backgrounds in bulk. Free, open source.
+
+`Python` `Google Colab`
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
 ### Case Studies
 
 <br />
@@ -87,7 +139,7 @@ and helping businesses turn search traffic into revenue.
 
 <div align="center">
 
-![FreshRN](https://img.shields.io/badge/FreshRN-Nursing_Education-6366F1?style=for-the-badge&labelColor=0D1117)
+[![FreshRN](https://img.shields.io/badge/FreshRN-Nursing_Education-6366F1?style=for-the-badge&labelColor=0D1117)](https://hamzahashim.com)
 
 ![Traffic](https://img.shields.io/badge/▲_850%25-Organic_Traffic-6366F1?style=flat-square)
 ![Keywords](https://img.shields.io/badge/▲_420%25-Keyword_Rankings-A855F7?style=flat-square)
@@ -104,7 +156,7 @@ and helping businesses turn search traffic into revenue.
 
 <div align="center">
 
-![Noori](https://img.shields.io/badge/Noori_Apparel-Fashion_eCommerce-A855F7?style=for-the-badge&labelColor=0D1117)
+[![Noori](https://img.shields.io/badge/Noori_Apparel-Fashion_eCommerce-A855F7?style=for-the-badge&labelColor=0D1117)](https://hamzahashim.com)
 
 ![CVR](https://img.shields.io/badge/▲_320%25-Conversion_Rate-6366F1?style=flat-square)
 ![Lift](https://img.shields.io/badge/1.2%25_→_3.8%25-CVR_Lift-A855F7?style=flat-square)
@@ -121,7 +173,7 @@ and helping businesses turn search traffic into revenue.
 
 <div align="center">
 
-![Social](https://img.shields.io/badge/SocialSellinator-Marketing_SaaS-8B5CF6?style=for-the-badge&labelColor=0D1117)
+[![Social](https://img.shields.io/badge/SocialSellinator-Marketing_SaaS-8B5CF6?style=for-the-badge&labelColor=0D1117)](https://hamzahashim.com)
 
 ![Leads](https://img.shields.io/badge/▲_670%25-Organic_Leads-6366F1?style=flat-square)
 ![Demos](https://img.shields.io/badge/▲_450%25-Demo_Requests-A855F7?style=flat-square)
@@ -136,6 +188,25 @@ and helping businesses turn search traffic into revenue.
 </td>
 </tr>
 </table>
+
+---
+
+### Services
+
+<br />
+
+<div align="center">
+
+![SEO](https://img.shields.io/badge/SEO_Optimization-6366F1?style=for-the-badge)
+![Content](https://img.shields.io/badge/Content_Writing-A855F7?style=for-the-badge)
+![Web Dev](https://img.shields.io/badge/Web_Development-8B5CF6?style=for-the-badge)
+![Strategy](https://img.shields.io/badge/Marketing_Strategy-7C3AED?style=for-the-badge)
+![Links](https://img.shields.io/badge/Link_Building-10B981?style=for-the-badge)
+![Technical](https://img.shields.io/badge/Technical_SEO-059669?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics_&_Reporting-F59E0B?style=for-the-badge)
+![UX](https://img.shields.io/badge/UX_Design-EF4444?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -218,7 +289,7 @@ and helping businesses turn search traffic into revenue.
 
 ![Award](https://img.shields.io/badge/🏆-FFD700?style=for-the-badge&labelColor=FFD700)
 
-**Best Freelancer of the Year**
+**Best Freelancer Of The Year**
 
 `Connected Pakistan, 2021`
 
@@ -259,10 +330,9 @@ and helping businesses turn search traffic into revenue.
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzahashim&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=mhamzahashim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9&rank_icon=github" alt="Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzahashim&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=555555" width="98%" alt="GitHub Streak" />
 
-<br />
+<br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamzahashim&bg_color=0D1117&color=6366F1&line=A855F7&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" width="98%" alt="Activity Graph" />
 
