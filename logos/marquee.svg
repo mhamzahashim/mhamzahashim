@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="80" viewBox="0 0 800 80">
+  <defs>
+    <style>
+      @keyframes scroll {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-2560px); }
+      }
+      .marquee {
+        animation: scroll 30s linear infinite;
+      }
+    </style>
+  </defs>
+  <g class="marquee">
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/10xwhitelavel.png" x="20" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/altrolabels.png" x="180" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/bamboohr.png" x="340" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/brick-motor.png" x="500" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/creality.png" x="660" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/detail.png" x="820" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/freshrn.png" x="980" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/giggster.png" x="1140" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/katama.png" x="1300" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/klick-data.png" x="1460" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/linkdaddy.png" x="1620" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/luminoso.png" x="1780" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/social-sellinator.png" x="1940" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/synoptdigital.png" x="2100" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/xihawks.png" x="2260" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/ysaisa.png" x="2420" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/10xwhitelavel.png" x="2580" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/altrolabels.png" x="2740" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/bamboohr.png" x="2900" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/brick-motor.png" x="3060" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/creality.png" x="3220" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/detail.png" x="3380" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/freshrn.png" x="3540" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/giggster.png" x="3700" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/katama.png" x="3860" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/klick-data.png" x="4020" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/linkdaddy.png" x="4180" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/luminoso.png" x="4340" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/social-sellinator.png" x="4500" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/synoptdigital.png" x="4660" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/xihawks.png" x="4820" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+    <image href="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/ysaisa.png" x="4980" y="15" height="50" preserveAspectRatio="xMidYMid meet" />
+  </g>
+</svg>
