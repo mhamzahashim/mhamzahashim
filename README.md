@@ -191,6 +191,33 @@ Remove image backgrounds in bulk. Free, open source.
 
 ---
 
+<div align="center">
+
+### Trusted By
+
+<br />
+
+![BambooHR](https://img.shields.io/badge/BambooHR-73C41D?style=for-the-badge&logoColor=white)
+![FreshRN](https://img.shields.io/badge/FreshRN-6366F1?style=for-the-badge&logoColor=white)
+![SocialSellinator](https://img.shields.io/badge/SocialSellinator-A855F7?style=for-the-badge&logoColor=white)
+![10X White Label](https://img.shields.io/badge/10X_White_Label-0D1117?style=for-the-badge&logoColor=white)
+![Creality](https://img.shields.io/badge/Creality-000000?style=for-the-badge&logoColor=white)
+![Katama](https://img.shields.io/badge/Katama-8B5CF6?style=for-the-badge&logoColor=white)
+![Klick Data](https://img.shields.io/badge/Klick_Data-10B981?style=for-the-badge&logoColor=white)
+![Link Daddy](https://img.shields.io/badge/Link_Daddy-F59E0B?style=for-the-badge&logoColor=white)
+![Luminoso](https://img.shields.io/badge/Luminoso-EF4444?style=for-the-badge&logoColor=white)
+![Altro Labels](https://img.shields.io/badge/Altro_Labels-059669?style=for-the-badge&logoColor=white)
+![Giggster](https://img.shields.io/badge/Giggster-FF642D?style=for-the-badge&logoColor=white)
+![Brick Motor](https://img.shields.io/badge/Brick_Motor-3178C6?style=for-the-badge&logoColor=white)
+![Xihawks](https://img.shields.io/badge/Xihawks-7C3AED?style=for-the-badge&logoColor=white)
+![Synopt Digital](https://img.shields.io/badge/Synopt_Digital-2496ED?style=for-the-badge&logoColor=white)
+![Ysaisa](https://img.shields.io/badge/Ysaisa-D14836?style=for-the-badge&logoColor=white)
+![Detail](https://img.shields.io/badge/Detail-4169E1?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
 ### Services
 
 <br />
@@ -278,6 +305,45 @@ Remove image backgrounds in bulk. Free, open source.
 
 <div align="center">
 
+### Certifications
+
+<br />
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![HubSpot Inbound](https://img.shields.io/badge/HubSpot_Inbound-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![HubSpot Content](https://img.shields.io/badge/HubSpot_Content_Marketing-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![HubSpot SEO](https://img.shields.io/badge/HubSpot_SEO-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![SEMrush SEO](https://img.shields.io/badge/SEMrush_SEO_Toolkit-FF642D?style=for-the-badge&logoColor=white)
+![SEMrush Content](https://img.shields.io/badge/SEMrush_Content_Marketing-FF642D?style=for-the-badge&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs_SEO-FF8C00?style=for-the-badge&logoColor=white)
+![Meta Blueprint](https://img.shields.io/badge/Meta_Blueprint-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Bing Ads](https://img.shields.io/badge/Microsoft_Advertising-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Yoast SEO](https://img.shields.io/badge/Yoast_SEO-A4286A?style=for-the-badge&logo=yoast&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### Currently Learning
+
+<br />
+
+![AI/ML](https://img.shields.io/badge/AI_&_Machine_Learning-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Advanced Next.js](https://img.shields.io/badge/Advanced_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Growth Marketing](https://img.shields.io/badge/Growth_Marketing-10B981?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-A855F7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
 ### Recognition
 
 <br />
@@ -321,6 +387,56 @@ Remove image backgrounds in bulk. Free, open source.
 </table>
 
 </div>
+
+---
+
+### Open Source
+
+<br />
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<div align="center">
+
+[![Live HTML Editor](https://img.shields.io/badge/Live_HTML_Editor-F59E0B?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mhamzahashim/livehtmleditor)
+
+Create, edit, and preview HTML in real-time. A fast playground for rapid prototyping.
+
+`TypeScript` `React`
+
+![Stars](https://img.shields.io/github/stars/mhamzahashim/livehtmleditor?style=flat-square&color=F59E0B) ![Forks](https://img.shields.io/github/forks/mhamzahashim/livehtmleditor?style=flat-square&color=6366F1)
+
+</div>
+</td>
+<td width="33%" valign="top">
+<div align="center">
+
+[![Bulk BG Remover](https://img.shields.io/badge/Bulk_BG_Remover-EF4444?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mhamzahashim/bulk-bg-remover)
+
+Remove image backgrounds in bulk for free using Python in Google Colab.
+
+`Python` `Google Colab`
+
+![Stars](https://img.shields.io/github/stars/mhamzahashim/bulk-bg-remover?style=flat-square&color=EF4444) ![Forks](https://img.shields.io/github/forks/mhamzahashim/bulk-bg-remover?style=flat-square&color=6366F1)
+
+</div>
+</td>
+<td width="33%" valign="top">
+<div align="center">
+
+[![HD Screenshot](https://img.shields.io/badge/HD_Screenshot-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mhamzahashim/hd-screenshot-extension)
+
+Browser extension for capturing high-definition screenshots.
+
+`JavaScript` `Chrome Extension`
+
+![Stars](https://img.shields.io/github/stars/mhamzahashim/hd-screenshot-extension?style=flat-square&color=3178C6) ![Forks](https://img.shields.io/github/forks/mhamzahashim/hd-screenshot-extension?style=flat-square&color=6366F1)
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
