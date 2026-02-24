@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=200&section=header&text=Hamza%20Hashim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Growth%20Architect%20%7C%20Founder%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=220&section=header&text=Hamza%20Hashim&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Digital%20Growth%20Architect%20%7C%20Founder%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=54&descColor=ffffff" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1500&color=C4B5FD&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Building+Products+That+Matter;Ranking+Websites+That+Convert;Scaling+Businesses+With+SEO" alt="Typing SVG" /></a>
 
@@ -197,22 +197,21 @@ Remove image backgrounds in bulk. Free, open source.
 
 <br />
 
-![BambooHR](https://img.shields.io/badge/BambooHR-73C41D?style=for-the-badge&logoColor=white)
-![FreshRN](https://img.shields.io/badge/FreshRN-6366F1?style=for-the-badge&logoColor=white)
-![SocialSellinator](https://img.shields.io/badge/SocialSellinator-A855F7?style=for-the-badge&logoColor=white)
-![10X White Label](https://img.shields.io/badge/10X_White_Label-0D1117?style=for-the-badge&logoColor=white)
-![Creality](https://img.shields.io/badge/Creality-000000?style=for-the-badge&logoColor=white)
-![Katama](https://img.shields.io/badge/Katama-8B5CF6?style=for-the-badge&logoColor=white)
-![Klick Data](https://img.shields.io/badge/Klick_Data-10B981?style=for-the-badge&logoColor=white)
-![Link Daddy](https://img.shields.io/badge/Link_Daddy-F59E0B?style=for-the-badge&logoColor=white)
-![Luminoso](https://img.shields.io/badge/Luminoso-EF4444?style=for-the-badge&logoColor=white)
-![Altro Labels](https://img.shields.io/badge/Altro_Labels-059669?style=for-the-badge&logoColor=white)
-![Giggster](https://img.shields.io/badge/Giggster-FF642D?style=for-the-badge&logoColor=white)
-![Brick Motor](https://img.shields.io/badge/Brick_Motor-3178C6?style=for-the-badge&logoColor=white)
-![Xihawks](https://img.shields.io/badge/Xihawks-7C3AED?style=for-the-badge&logoColor=white)
-![Synopt Digital](https://img.shields.io/badge/Synopt_Digital-2496ED?style=for-the-badge&logoColor=white)
-![Ysaisa](https://img.shields.io/badge/Ysaisa-D14836?style=for-the-badge&logoColor=white)
-![Detail](https://img.shields.io/badge/Detail-4169E1?style=for-the-badge&logoColor=white)
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-1.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-2.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-3.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-4.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-5.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-6.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<br /><br />
+
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-7.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-8.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-9.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-10.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-11.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-12.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 </div>
 
@@ -222,18 +221,90 @@ Remove image backgrounds in bulk. Free, open source.
 
 <br />
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="12.5%">
+<br />
 
-![SEO](https://img.shields.io/badge/SEO_Optimization-6366F1?style=for-the-badge)
-![Content](https://img.shields.io/badge/Content_Writing-A855F7?style=for-the-badge)
-![Web Dev](https://img.shields.io/badge/Web_Development-8B5CF6?style=for-the-badge)
-![Strategy](https://img.shields.io/badge/Marketing_Strategy-7C3AED?style=for-the-badge)
-![Links](https://img.shields.io/badge/Link_Building-10B981?style=for-the-badge)
-![Technical](https://img.shields.io/badge/Technical_SEO-059669?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Analytics_&_Reporting-F59E0B?style=for-the-badge)
-![UX](https://img.shields.io/badge/UX_Design-EF4444?style=for-the-badge)
+![SEO](https://img.shields.io/badge/🔍-6366F1?style=for-the-badge&labelColor=6366F1)
 
-</div>
+**SEO**
+**Optimization**
+
+<br />
+</td>
+<td align="center" width="12.5%">
+<br />
+
+![Content](https://img.shields.io/badge/✍️-A855F7?style=for-the-badge&labelColor=A855F7)
+
+**Content**
+**Writing**
+
+<br />
+</td>
+<td align="center" width="12.5%">
+<br />
+
+![Dev](https://img.shields.io/badge/💻-8B5CF6?style=for-the-badge&labelColor=8B5CF6)
+
+**Web**
+**Development**
+
+<br />
+</td>
+<td align="center" width="12.5%">
+<br />
+
+![Strategy](https://img.shields.io/badge/📈-7C3AED?style=for-the-badge&labelColor=7C3AED)
+
+**Marketing**
+**Strategy**
+
+<br />
+</td>
+<td align="center" width="12.5%">
+<br />
+
+![Links](https://img.shields.io/badge/🔗-10B981?style=for-the-badge&labelColor=10B981)
+
+**Link**
+**Building**
+
+<br />
+</td>
+<td align="center" width="12.5%">
+<br />
+
+![Technical](https://img.shields.io/badge/⚙️-059669?style=for-the-badge&labelColor=059669)
+
+**Technical**
+**SEO**
+
+<br />
+</td>
+<td align="center" width="12.5%">
+<br />
+
+![Analytics](https://img.shields.io/badge/📊-F59E0B?style=for-the-badge&labelColor=F59E0B)
+
+**Analytics &**
+**Reporting**
+
+<br />
+</td>
+<td align="center" width="12.5%">
+<br />
+
+![UX](https://img.shields.io/badge/🎨-EF4444?style=for-the-badge&labelColor=EF4444)
+
+**UX**
+**Design**
+
+<br />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -446,11 +517,11 @@ Browser extension for capturing high-definition screenshots.
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzahashim&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=555555" width="98%" alt="GitHub Streak" />
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamzahashim&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117&ring_color=6366F1&include_all_commits=true&count_private=true)
 
-<br /><br />
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamzahashim&bg_color=0D1117&color=6366F1&line=A855F7&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" width="98%" alt="Activity Graph" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzahashim&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=C9D1D9&bg_color=0D1117)
 
 </div>
 
