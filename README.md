@@ -197,21 +197,21 @@ Remove image backgrounds in bulk. Free, open source.
 
 <br />
 
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-1.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-2.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-3.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-4.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-5.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-6.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-1.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-2.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-3.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-4.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-5.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-6.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 <br /><br />
 
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-7.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-8.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-9.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-10.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-11.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/hamza/master/logos/logo-12.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-7.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-8.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-9.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-10.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-11.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-12.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 </div>
 
@@ -517,11 +517,11 @@ Browser extension for capturing high-definition screenshots.
 
 <br />
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamzahashim&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117&ring_color=6366F1&include_all_commits=true&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzahashim&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=555555" width="98%" alt="GitHub Streak" />
 
-<br />
+<br /><br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzahashim&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=C9D1D9&bg_color=0D1117)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamzahashim&bg_color=0D1117&color=6366F1&line=A855F7&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" width="98%" alt="Activity Graph" />
 
 </div>
 
