@@ -197,21 +197,29 @@ Remove image backgrounds in bulk. Free, open source.
 
 <br />
 
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-1.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-2.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-3.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-4.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-5.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-6.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/marquee.svg" width="100%" alt="Trusted By Leading Brands" /></a>
+
+<br />
+
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/10xwhitelavel.png" height="45" alt="10X White Label" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/altrolabels.png" height="45" alt="Altro Labels" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/bamboohr.png" height="45" alt="BambooHR" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/creality.png" height="45" alt="Creality" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/freshrn.png" height="45" alt="FreshRN" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/giggster.png" height="45" alt="Giggster" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/katama.png" height="45" alt="Katama" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/klick-data.png" height="45" alt="Klick Data" />&nbsp;&nbsp;&nbsp;</a>
 
 <br /><br />
 
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-7.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-8.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-9.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-10.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-11.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/logo-12.png" height="40" alt="Client" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/linkdaddy.png" height="45" alt="Link Daddy" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/luminoso.png" height="45" alt="Luminoso" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/social-sellinator.png" height="45" alt="Social Sellinator" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/synoptdigital.png" height="45" alt="Synopt Digital" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/brick-motor.png" height="45" alt="Brick Motor" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/xihawks.png" height="45" alt="Xihawks" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/detail.png" height="45" alt="Detail" />&nbsp;&nbsp;&nbsp;</a>
+<a href="https://hamzahashim.com"><img src="https://raw.githubusercontent.com/mhamzahashim/mhamzahashim/main/logos/ysaisa.png" height="45" alt="Ysaisa" />&nbsp;&nbsp;&nbsp;</a>
 
 </div>
 
