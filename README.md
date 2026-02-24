@@ -513,22 +513,6 @@ Browser extension for capturing high-definition screenshots.
 
 <div align="center">
 
-### GitHub Activity
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzahashim&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=555555" width="98%" alt="GitHub Streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamzahashim&bg_color=0D1117&color=6366F1&line=A855F7&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" width="98%" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Let's Connect
 
 <br />
